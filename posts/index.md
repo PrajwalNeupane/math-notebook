@@ -1,57 +1,55 @@
-## What is MindStone?
-MindStone is a free open-source alternative solution to [Obsidian Publish](https://obsidian.md/publish)
+# Welcome to My Mathematical Garden 🌱
 
-Here how it look like once published:
+This is my living notebook — a growing collection of notes, reflections, and research sketches at the intersection of **mathematics**, **logic**, and **philosophy**.
 
-![](/images/CleanShot%202022-04-20%20at%2008.34.17@2x.png)
+Here you'll find a blend of:
+- 🧮 **Formal reasoning** — from set theory to category theory
+- 🧠 **Foundational inquiry** — on the nature of truth, structure, and proof
+- 🌀 **Philosophical reflections** — inspired by thinkers like Gödel, Kant, Nagarjuna, Lawvere
 
-This website include a published version of default Obsidian Help vault, [[Start here]]
+---
 
-**MindStone features:**
+## 🌐 Purpose
 
--  ✅ **Drop-in** support for (default) **Obsidian Vault** 
--  ✅ `[[Wiki Link]]` built-in support
--  ✅ **Folder-base** navigation side bar
--  ✅ Backlink support out of the box
--  ✅ Interactive Graph view 
--  ✅ **Easy to deploy** to Netlify, Vercel...
+This garden is not a finished archive, but a **space to think in public**. It evolves as I learn, and documents the movement of my mind through:
+- **Mathematical logic & foundations**
+- **Category theory** as structural metaphysics
+- The role of **abstraction** in knowledge
+- The limits of **formalism** and the question of **meaning**
 
-## Getting started
-### Run on your local machine
+---
 
-Steps to run it on your local machine:
-1. Clone this [Github repo](https://github.com/TuanManhCao/digital-garden)
-2. Install [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable) package manager 
-3. Copy all of your **markdown** file (`.md` only) and folder to `/posts/` **except** `/posts/index.md` file
-4. Go to root folder of your project, run `yarn && yarn run dev`
-5. Open this link in your browser http://localhost:3000/ 
+## 🔍 Start Exploring
 
-If you prefer video content have a look at my 📺 [walk through video](https://youtu.be/7_SmWA-_Wx8) 
+- [[Category Theory]] – notes on structure, functors, Yoneda, and beyond
+- [[Logic]] – from propositional to intuitionistic and categorical logic
+- [[Philosophy of Mathematics]] – thoughts on platonism, formalism, intuitionism
+- [[Foundational Projects]] – ongoing research inquiries and sketches
 
-### Publish to the internet
+Or begin here: [[Start here]]
 
-Setup environment (with Netlify)
-1. Create your Github account and clone [my repository](https://github.com/TuanManhCao/digital-garden)
-2. Create Netlify account and follow [this instruction](https://www.netlify.com/blog/2020/11/30/how-to-deploy-next.js-sites-to-netlify/) 
+---
 
+## ✍️ About Me
 
-Your normal workflow for publishing content, after initial setup is:
-1. Simply writing your content in Obisidian (or your favourite Markdown editor)
-2. Commit your changes and Push it to your Github repo
+I'm an undergraduate student of **Mathematics & Philosophy**, currently exploring how the abstract structures of logic and category theory might not just **describe** mathematics, but **reveal deeper truths** about knowledge, existence, and mind.
 
+I am particularly interested in:
+- Gödel’s incompleteness and its metaphysical reach
+- Category theory as a unifying and philosophical grammar
+- The ontology of mathematics: is structure all there is?
 
-If you prefer video content, watch my 📺 [walk through video](https://youtu.be/n8QDO6l64aw) here 
+---
 
-These are just some basic features for MindStone v1, many more are coming (if I find enough of interest and this will probably a premium/paid option):
-- 🎯 Obsidian, Notion, VSCode Plugin 
-- 🎯 Page Preview (like Obsidian Core plugin)
-- 🎯 Andy Sliding pane
-- 🎯 Full text search with `Cmd + K`
-- 🎯 Infinite canvas for browsing through notes and connections
+## 📬 Connect
 
-### Some know issues
-This an early version of MindStone, which mean there are bugs and issues. Below are some known issues, that I plan to work on:
-- Image link in wiki link style is not supported yet. `![[Image_link.png]]` will not work yet.  see work around below
-- Graphview does not load when clicking on side-bar or click node on graphview, browser reload will refresh it state
-- Graph view layout and interaction is still very rough. More UI/UX improvements are needed.
-- Transclusion is not working yet.
+- GitHub: [@PrajwalNeupane](https://github.com/PrajwalNeupane)
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- Domain: [prajwalnotes.com.np](https://prajwalnotes.com.np) _(pending DNS setup)_
+
+---
+
+> _“To dissolve the boundaries between mathematics and philosophy is not to confuse them, but to remember they were never really separate.”_
+
+---
+
