@@ -3,19 +3,22 @@
 This is my living notebook — a growing collection of notes, reflections, and research sketches at the intersection of **mathematics**, **logic**, and **philosophy**.
 
 Here you'll find a blend of:
-- 🧮 **Formal reasoning** — from set theory to category theory
-- 🧠 **Foundational inquiry** — on the nature of truth, structure, and proof
-- 🌀 **Philosophical reflections** — inspired by thinkers like Gödel, Kant, Nagarjuna, Lawvere
+- 🧮 **Formal reasoning** — from set theory to category theory  
+- 🧠 **Foundational inquiry** — on the nature of truth, structure, and proof  
+- 🌀 **Philosophical reflections** — inspired by thinkers like Gödel, Kant, Nagarjuna, and Lawvere  
 
 ---
 
 ## 🌐 Purpose
 
-This garden is not a finished archive, but a **space to think in public**. It evolves as I learn, and documents the movement of my mind through:
-- **Mathematical logic & foundations**
-- **Category theory** as structural metaphysics
-- The role of **abstraction** in knowledge
-- The limits of **formalism** and the question of **meaning**
+This garden is not a finished archive, but a **space to think in public**.  
+It evolves as I learn, and documents the movement of my mind through:
+
+- **Mathematical logic & foundations**  
+- **Category theory** as structural metaphysics  
+- The role of **abstraction** in knowledge  
+- The limits of **formalism** and the question of **meaning**  
+
 
 ---
 
