@@ -1,210 +1,176 @@
-**What happened?**
+# What happened?
 
-How do I explain a sliver of colossal structures
+*How do I explain a sliver of colossal structures*  
+Collapsing, Cascading, tumultuous —  
+Like a rotten gum in a toddler’s mouth  
+Scintillating, Suffocating, veinous —  
+Each root shivers alerting the crown,  
+Begging to be pulled out.  
 
-Collapsing, Cascading, tumultuous 
+It knows of only one end beyond the pain —  
+The shivering only ends with rupture.  
 
-Like a rotten gum in a toddler’s mouth 
+How then does the child describe the location of their tooth,  
+For he is asked,  
+**"What happened?"**
 
-Scintillating, Suffocating, veinous 
+Fearful of rupture, desiring release,  
+The child replies:  
+> *"How do I explain a sliver of colossal structures?"*
 
-Each root shivers alerting the crown 
+---
 
-Begging to be pulled out
+# But you forgot
 
-It knows of only one end beyond the pain 
+Eternities ago, we met at the crevice of spring —  
+But you forgot.  
 
-The shivering only ends with rupture 
+Cupping your hands, you drew from the infinite well —  
+But you forgot.  
 
-How then does the child describe the location of their tooth 
+You sipped, and you drank,  
+You dipped, and you sank.  
 
-For he is asked, “What happened?”
+The abyss awaits with its pangs of solitude —  
+Melancholy and dread from disunion.  
 
-Fearful of rupture, desiring release 
+You keep forgetting  
+The crevice of the spring  
+Where we met.
 
-The child replies, “How do I explain a sliver of colossal structures”
+---
 
-**But you forgot**
+# To pen or not to Pen?
 
-Eternities ago, we met at the crevice of spring 
+Penning you would mean imprisoning you.  
+Not penning you would mean imprisoning me.  
 
-But you forgot 
+Oh Child O’ mine, will you find your way?  
+For the box has sharp edges,  
+Demanding to split you,  
+Divide your love.  
 
-Cupping your hands, you drew from the infinite well 
+But forget not:  
+> *Split love is no love at all.*  
 
-But you forgot 
+Two cannot love,  
+For neither you are nor I am.  
 
-You sipped, and you drank 
+Neither is penning,  
+Nor imprisoning.  
 
-You dipped, and you sank 
+**I love you.**  
+**I love.**  
+**Love.**
 
-The abyss awaits with its pangs of solitude 
+---
 
-Melancholy and dread from disunion 
+# Who is a poet?
 
-You keep forgetting 
+Twisty words, gnarly structure,  
+Juxtaposed against lulling and luring —  
 
-The crevice of the spring 
+Scaffolding of metaphors with wit seeping in.  
+Precise is the tone,  
+Teasing, the language.  
 
-Where we met
+Layers unfold as the same tunes strike  
+Within the reader and the poet.  
 
-**To pen or not to Pen?**
+Alas! A surprise!  
 
-Penning you would mean imprisoning you 
+> *For who is truly a poet if not her words?*  
+> *If not her metaphors?*  
+> *If not her teasing?*
 
-Not penning you would mean imprisoning me 
+And what is truly poetry without surprise?  
 
-Oh Child O’ mine, will you find your way?
+Is it even possible for the same tunes  
+To arise within the reader and the poet?  
 
-For the box has sharp edges 
+For what does the reader know of the rhythm  
+That drove the poet away from her cozy bed?  
 
-Demanding to split you 
+Surprise assumes discord.  
+Poetry assumes harmony.  
 
-Divide your love 
+There is no poetry without surprise.  
 
-But forget not 
+> That which twists familiarly,  
+> Does not twist at all.  
 
-Split love is no love at all
+Twisting assumes surprise.  
 
-Two cannot love 
-
-For neither you are nor I am 
-
-Neither is penning nor imprisoning 
-
-I love you 
-
-I love 
-
-Love.
-
-**Who is a poet?**
-
-Twisty words, gnarly structure 
-
-Juxtaposed against lulling and luring 
-
-Scaffolding of metaphors with wit seeping in 
-
-Precise is the tone, Teasing, the language 
-
-Layers unfold as the same tunes strike 
-
-Within the reader and the poet 
-
-Alas! A surprise!
-
-For who is truly a poet if not her words
-
-If not her metaphors 
-
-If not her teasing 
-
-And what is truly poetry without surprise 
-
-Is it even possible for the same tunes 
-
-To arise within the reader and the poet 
-
-For what does the reader know of the rhythm 
-
-That drove the poet away from her cozy bed 
-
-Surprise assumes discord 
-
-Poetry assumes harmony 
-
-There is no poetry without surprise 
-
-For that which twists familiarly 
-
-Does not twist at all 
-
-Twisting assumes surprise 
-
-What is poetry without twisty words
-
+What is poetry without twisty words?  
 And who is a poet without poetry?
 
-**In Search of Solitude**
+---
 
-The arching branch innocuously bobs 
+# In Search of Solitude
 
-Under the guidance of the wind 
+The arching branch innocuously bobs  
+Under the guidance of the wind.  
 
-Fanned out finger-like leaves brush an invisible canvas
+Fanned-out, finger-like leaves  
+Brush an invisible canvas —  
+Masterpiece after masterpiece blowing away.  
 
-Masterpiece after masterpiece blowing away 
+The benefactor of the bobbing  
+Receives what is hers.  
 
-The benefactor of the bobbing receives what is hers
+This echo chamber of bobbing and brushing and masterpieces  
+Reminds me of my search for solitude,  
+Invigoratingly disturbed by the crowds.  
 
-This echo chamber of bobbing and brushing and masterpieces 
+My shaking fingers fill out canvas after canvas.  
+My bobbing wrist knows not of the tears at the tip of my pen.  
 
-Remind of my search for solitude 
+Bobbing, brushing, masterpieces —  
+The benefactor receives what is hers.
 
-Invigoratingly disturbed by the crowds 
+---
 
-My shaking fingers fill out canvas after canvas 
+# no water ever has asked
 
-My bobbing wrist knows not of the tears at the tip of my pen 
+Water asked the thirsty barren basin:  
+> *"How may I caress you?  
+> For we have been long apart."*
 
-Bobbing, brushing, masterpieces, the benefactor receives what is hers.
+Dry and dusty, rocks and reefs  
+Cried out in fractal scatter and heaves.  
 
- 
- **no water ever has asked**
+"Oh lover mine, worry not of overestimation.  
+You are to touch me as the lethal strike of a warhead —  
+Piercing through my dryness,  
+Invigorating my solitude.  
 
-Water asked the thirsty barren basin 
+For it is I who have lamented to blue skies.  
+For it is I who have painted the canvas with white.  
 
-How may I caress you 
+Where do you gather the courage to ask questions?  
+Why must the painter answer?  
+Is my art not as loud as the thundering sky?
 
-For we have been long apart 
+A question pulsating naïveté —  
+Insulting to our union.  
 
-Dry and dusty, rocks and reefs 
+For such sacred is our love —  
 
-Cried out in fractal scatter and heaves
+Have the birds asked the atmosphere  
+How may I caress you with my songs?
 
-Oh lover mine, worry not of overestimation 
+Have the tadpoles expressed curiosity  
+About the flinging nature of their tails?
 
-You are to touch me as the lethal strike of a warhead 
+Have the hungry asked  
+How may I caress food?
 
-Piercing through my dryness 
+Have the thirsty asked  
+How may I caress water?
 
-Invigorating my solitude 
+Why then, do you — water — ask:  
+> *"How may I caress you?"*
 
-For it is I who have lamented to blue skies 
-
-For it is I who have painted the canvas with white 
-
-Where do you gather the courage to ask questions 
-
-Why must the painter answer
-
-Is my art not as loud as the thundering sky
-
-A question pulsating naïveté 
-
-Insulting to our union 
-
-For such sacred is our love 
-
-Have the birds asked the atmosphere 
-
-How may I caress you with my songs
-
-Have the tadpoles expressed curiosity 
-
-About the flinging nature of their tails
-
-Have the hungry asked 
-
-How may I caress food 
-
-Have the thirsty asked 
-
-How may I caress water 
-
-Why then, do you water ask
-
-How may I caress you 
-
-And so no water ever has asked a dry river basin, “How may I caress you”
+And so,  
+**No water ever has asked a dry river basin,**  
+> *"How may I caress you?"*
