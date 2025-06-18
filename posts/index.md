@@ -44,8 +44,8 @@ I am particularly interested in:
 ## 📬 Connect
 
 - GitHub: [@PrajwalNeupane](https://github.com/PrajwalNeupane)
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- Domain: [prajwalnotes.com.np](https://prajwalnotes.com.np) _(pending DNS setup)_
+- Email: [prajwal.neupane26@gmail.com](mailto:prajwal.neupane26@gmail.com)
+- Domain: [neupaneprajwal.com.np](https://neupaneprajwal.com.np) _(pending DNS setup)_
 
 ---
 
