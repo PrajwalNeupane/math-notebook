@@ -24,7 +24,7 @@ It evolves as I learn, and documents the movement of my mind through:
 
 ## 🔍 Start Exploring
 
-- [[Category Theory]] – notes on structure, functors, Yoneda, and beyond
+- [[Category Theory]] – notes on structure, functors, Yoneda...
 - [[Logic]] – from propositional to intuitionistic and categorical logic
 - [[Philosophy of Mathematics]] – thoughts on platonism, formalism, intuitionism
 - [[Foundational Projects]] – ongoing research inquiries and sketches
@@ -48,7 +48,7 @@ I am particularly interested in:
 
 - GitHub: [@PrajwalNeupane](https://github.com/PrajwalNeupane)
 - Email: [prajwal.neupane26@gmail.com](mailto:prajwal.neupane26@gmail.com)
-- Domain: [neupaneprajwal.com.np](https://neupaneprajwal.com.np) _(pending DNS setup)_
+- Domain: [neupaneprajwal.com.np](https://neupaneprajwal.com.np) 
 
 ---
 
