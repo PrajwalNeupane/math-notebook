@@ -1,4 +1,4 @@
-# Topology - my thoughts 
+### Topology - my thoughts 
 
 A large part of mathematics is to see and make generalizations. Topology and the agreed upon definition of it make such a generalization about "open" sets in the Real number space. We have the idea of an "open" set and a "closed" set when describing a range of numbers. We indicate "(3,5)" as open and "[3,5]" as closed. With the open 3,5, we are not including the points 3 and 5 in the range. This means, I can get infinitely close to 3 and infinitely close to 5 but I will never reach there and these numbers are in fact the boundaries. With closed 3,5 we are including the endpoints in the range, meaning, we can get to 3 and 5 but not a step further. 
 

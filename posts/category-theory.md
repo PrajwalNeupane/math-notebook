@@ -1,4 +1,4 @@
-# Category Theory 
+### Category Theory 
 
 - a new and fundamental insight about the nature of mathematics. 
 - a category = mathematical universe 
