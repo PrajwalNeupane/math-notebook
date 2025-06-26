@@ -11,10 +11,6 @@ Now, to move forward and get an intuitive understanding of how the definitions o
 
 From this little exercise, we have understood that the empty set and the whole set must always be open, and any arbitrary intersection and infinite unions must be open. If we completely drop the initial idea where we drew this from, i.e. open intervals in the real number space, we can go back to our points a,b,c and describe a topological space for them defining what sets are open and what sets are not. However, we are not doing it completely arbirarily, we are bound by the abstraction we have done from the real number space.  
 
-# Topology - My Thoughts
-
-A large part of mathematics involves recognizing and creating generalizations. Topology abstracts the concept of "open" sets from the real number line to arbitrary spaces. 
-
 ## Open vs. Closed Sets in ℝ
 Consider intervals on the real line:
 - **Open interval**: $(3,5) = \{x \in \mathbb{R} \mid 3 < x < 5\}$  
@@ -46,7 +42,6 @@ For $X = \{a, b, c\}$, we define a topology by declaring which sets are open, su
   - $\{a\} \cup \{a,b\} = \{a,b\}$ (open)  
   - $\{a\} \cap \{a,b\} = \{a\}$ (open)
 
-## Philosophical Insight
 This construction isn't arbitrary—it distills essential properties of open sets in $\mathbb{R}$:
 - Boundary behavior (exclusion/inclusion of limits)
 - Consistency under set operations
